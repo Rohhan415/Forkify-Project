@@ -43,6 +43,7 @@ body {
   box-shadow: 0 2rem 6rem .5rem #61555133;
 }
 
+
 @media only screen and (max-width:  78.15em) {
   .container {
     border-radius: 0;
