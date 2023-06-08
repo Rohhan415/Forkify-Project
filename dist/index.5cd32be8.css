@@ -12,7 +12,7 @@ html {
   font-size: 62.5%;
 }
 
-@media only screen and (max-width: 61.25em) {
+@media only screen and (max-width:  61.25em) {
   html {
     font-size: 50%;
   }
@@ -295,16 +295,6 @@ body {
   color: #d3c7c3;
 }
 
-@media only screen and (max-width:1.25em) {
-  .search__field {
-    width: auto;
-  }
-
-  .search__field::placeholder {
-    color: #fff;
-  }
-}
-
 .search__btn {
   font-family: inherit;
   font-weight: 600;
@@ -576,12 +566,6 @@ body {
   padding: 1.3rem 2rem;
 }
 
-@media only screen and (max-width:  61.25em) {
-  .recipe__title {
-    width: 70%;
-  }
-}
-
 .recipe__details {
   align-items: center;
   padding: 7.5rem 8rem 3.5rem;
@@ -788,4 +772,4 @@ body {
   justify-self: center;
 }
 
-/*# sourceMappingURL=index.f7626f62.css.map */
+/*# sourceMappingURL=index.5cd32be8.css.map */
