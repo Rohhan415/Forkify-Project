@@ -12,7 +12,7 @@ html {
   font-size: 62.5%;
 }
 
-@media only screen and (max-width:  61.25em) {
+@media only screen and (width <= 61.25em) {
   html {
     font-size: 50%;
   }
@@ -43,8 +43,7 @@ body {
   box-shadow: 0 2rem 6rem .5rem #61555133;
 }
 
-
-@media only screen and (max-width:  78.15em) {
+@media only screen and (width <= 78.15em) {
   .container {
     border-radius: 0;
     max-width: 100%;
