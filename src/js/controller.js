@@ -13,9 +13,9 @@ import 'regenerator-runtime/runtime';
 import { async } from 'regenerator-runtime';
 import AddRecipeView from './views/addRecipeView';
 
-// if (module.hot) {
-//   module.hot.accept();
-// }
+if (module.hot) {
+  module.hot.accept();
+}
 
 
 const controlRecipes = async function() {
